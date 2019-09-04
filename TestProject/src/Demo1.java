@@ -1,5 +1,5 @@
 
-public class Demo {
+public class Demo1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -8,6 +8,7 @@ public class Demo {
 		double sum;
 		sum=a+b;
 		System.out.println(sum);
+		System.out.println(a++ + ++b);
 	}
 
 }
